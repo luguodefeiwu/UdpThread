@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\showsystem.o
+./release\editsystem.o
+./release\database.o
+./release\udprecvthread.o
+./release\dialogtip.o
+./release\udpsendthread.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_showsystem.o
+./release\moc_editsystem.o
+./release\moc_udprecvthread.o
+./release\moc_dialogtip.o
+./release\moc_udpsendthread.o
+);

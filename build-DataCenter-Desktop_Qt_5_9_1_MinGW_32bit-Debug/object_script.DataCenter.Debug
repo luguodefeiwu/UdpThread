@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\showsystem.o
+./debug\editsystem.o
+./debug\database.o
+./debug\udprecvthread.o
+./debug\dialogtip.o
+./debug\udpsendthread.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+./debug\moc_showsystem.o
+./debug\moc_editsystem.o
+./debug\moc_udprecvthread.o
+./debug\moc_dialogtip.o
+./debug\moc_udpsendthread.o
+);

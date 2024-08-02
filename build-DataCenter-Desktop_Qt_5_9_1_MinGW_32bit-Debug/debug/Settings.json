@@ -1,0 +1,84 @@
+﻿{
+    "systems": [
+        {
+            "localPort": 25511,
+            "recvDataName": [
+                "recv1",
+                "recv2",
+                "recv3",
+                "recv4",
+                "recv5",
+                "recv6"
+            ],
+            "recvDataType": [
+                "bool",
+                "int",
+                "float",
+                "double",
+                "int",
+                "double"
+            ],
+            "sendData": [
+                "recv1",
+                "recv2",
+                "recv5",
+                "recv4"
+            ],
+            "sendDataName": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "sendDataSource": [
+                "原神",
+                "原神",
+                "原神",
+                "原神"
+            ],
+            "systemName": "崩铁",
+            "targetIP": "127.0.0.1",
+            "targetPort": 1234
+        },
+        {
+            "localPort": 25512,
+            "recvDataName": [
+                "recv1",
+                "recv2",
+                "recv3",
+                "recv4",
+                "recv5",
+                "recv6"
+            ],
+            "recvDataType": [
+                "bool",
+                "int",
+                "float",
+                "double",
+                "int",
+                "double"
+            ],
+            "sendData": [
+                "recv1",
+                "recv2",
+                "recv5",
+                "recv4"
+            ],
+            "sendDataName": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "sendDataSource": [
+                "崩铁",
+                "崩铁",
+                "崩铁",
+                "崩铁"
+            ],
+            "systemName": "原神",
+            "targetIP": "127.0.0.1",
+            "targetPort": 2345
+        }
+    ]
+}
